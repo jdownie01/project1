@@ -1,1 +1,21 @@
-yes
+.centerheader {
+	text-align: center;
+}
+h4 {
+}
+.mainBody {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.rightheader {
+	text-align: right;
+}
+.rightheader p {
+	margin: 0px;
+}
+.leftheader {
+	text-align: left;
+}
+.leftheader p {
+	margin: 0px;
+}
