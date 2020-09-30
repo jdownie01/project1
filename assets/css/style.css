@@ -33,3 +33,29 @@ img {
   margin-right: auto;
   width: 20%;
 }
+.ll {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.ll li {
+  float: left;
+	background-color: #111;
+}
+
+.ll li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+	background-color: #333;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.ll li a:hover {
+  background-color: #333;
+}
